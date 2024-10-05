@@ -1,6 +1,6 @@
 # Wallpapers
 Makes you wallpapers for your phone
 <br>
-Click on releases to download the first version
+Click on releases to download the Setup.exe
 <br>
-*Have not tested if it works on other people's machines
+*Make sure to wait for the green thing to finish loading and then use it
