@@ -1,5 +1,5 @@
 # Wallpapers
-Makes you wallpapers for your phone
+Turns your timetable into little wallpapers for each day
 <br>
 # Instructions
 <p>Click on releases to download the Setup.exe</p>
