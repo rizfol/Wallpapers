@@ -10,4 +10,4 @@ Turns your timetable into little wallpapers for each day
 <br>
 
 <p>*Make sure to wait for the green thing to finish loading and then use it</p>
-<p>** I also don't know for sure if the code accounts for weekend classes</p>
+<p>**I also don't know for sure if the code accounts for weekend classes</p>
