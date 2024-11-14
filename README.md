@@ -1,5 +1,5 @@
 # Wallpapers
-A fully desktop local app (meaning no one sees your timetable except you) that turns your timetable into little wallpapers for each day
+A fully local desktop app (meaning no one sees your timetable except you) that turns your timetable into little wallpapers for each day
 <br>
 # Instructions
 <p>Click on releases on the side to download the Setup.exe</p>
